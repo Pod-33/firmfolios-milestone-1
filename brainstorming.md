@@ -139,7 +139,7 @@ In summary, this app offers a unique mobile experience, has a clear value to a b
 
 3. Market: 
 
-    - While the market for this app, university students, might not be the most unique, it is quite large. University students, typically from the ages of 18-22 should find this app useful in their internship and job search. 
+    - While the market for this app, university students, might not be the most unique, it is quite large. University students, typically from the ages of 18 to 22, should find this app useful in their internship and job search.  
 
 4. Habit: 
 
